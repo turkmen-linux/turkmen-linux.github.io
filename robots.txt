@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://turkmen-linux.github.io/wiki/sitemap.xml
+Sitemap: https://turkmen-linux.gitlab.io/devel/doc/wiki/sitemap.xml
